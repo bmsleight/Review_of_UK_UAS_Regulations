@@ -47,7 +47,7 @@ They are not complex or challenging many guide exist online for users, who wish 
 
 Risks are adequate mitigated. To (ALARP) as low as reasonably practicable. The exists not incident or evidence to suggest the the current mitigate are not adequate. The  number of killed or seriously injured and minor injury is zero. 
 
-Restrictions for UAS manufactured before 2026 are not burdensome. There is not evidence presented to suppport this statement. Many guide exist online for users
+Restrictions for UAS manufactured before 2026 are not burdensome. There is not evidence presented to support this statement. Many guide exist online for users
 
 2. Should CAA adopt the following policy objectives for operational requirements and why? 
 
@@ -66,9 +66,9 @@ Yes. It stops UK supplier being under-cut by the race to the bottom.
 
 
 4. Should CAA re-name operational categories and sub-categories (Opportunity 1) and why? 
- No 
+ Yes, to an extent
  
- Naming is superficial. 
+Naming is superficial but they could be more meaningful.
 
 5. Should CAA simplify how operational requirements are categorised (Opportunity 2) and why? 
 
@@ -76,62 +76,60 @@ Yes. It stops UK supplier being under-cut by the race to the bottom.
 
 The CAA has not given risk based approach on evidence therefore the approach to simplification is ill-defined. 
 
+No evidence is provided on which risk are being mitigated. There are clearly different risk for flight over people, far away and in countryside. 
+
 
 6. Should CAA update how model aircraft operations are regulated (Opportunity 3) and why? 
 
-Yes, to an extent
-
-Provided a evidence based risk approach is adopted. 
+Neither yes or now
 
 
 7. Should CAA simplify exclusions from operational requirements (Opportunity 4) and why? Please describe any alternative exclusions that should be considered. 
 
- Definitely yes 
+Definitely No
 
 250g is a proportionate approach there is little proven evidence of entering restricted airspace. 
 
 250g is a proportionate approach for protecting unlawfully collection of
 personal and sensitive data. 250g is far less than the capabilities of any modern mobile phone, which remain unregulated. 
 
-To increase levels of compliance option could be given or low-mass FPV without a spotter present of less than 100g.
+To increase levels of compliance options could be given or low-mass FPV without a spotter present of less than 100g.
 
 8 Should CAA change transitional arrangements for users of UAS without class-marks (Opportunity 5) and why?
 
 Definitely yes
 
-No evidence to suggest current drones are unsafe. 
+No evidence to suggest current drones are unsafe. Arrangements could be made to permit C-1 labelled drones to have the same freedoms enjoyed in Europe.
 
 9 Do you agree with the issues identified by stakeholders relating to product requirements, and why?
 
- Neither agree nor disagree 
+Definitely disagree
  
-Agree that Users are not communicated adequate information at point-of-purchase
-
 Disagree that regulatory requirements are not as effective as they could be in mitigating safety and security risks. No evidence of any safety issues. 
-
- Definitely disagree 
+Agree that Users are not communicated adequate information at point-of-purchase
 
 More restrictive regulation will drive users to circumvent technical blocks. Similar to electric bikes.  This will also driver users to not use UK suppliers. 
 
 10 Should CAA adopt the following policy objectives for product requirements, and why?
 
 Mitigates safety and security risks - Definitely no 
-
 User-centric - Definitely yes 
 Growth enabling - Definitely yes
 Scalable  - Definitely yes
 Internationally aligned  - Neither yes nor no 
 
+Make more use of geo-restrictions as a mitigation measure.
+
  11. Should CAA implement manufacturer standards (Opportunity 8) and why? 
  
- Neither yes nor no 
+Neither yes nor no 
  
- The danger is that this makes UK suppliers uncompetitive.  
+The danger is that this makes UK suppliers uncompetitive.  
  
 12 Should CAA implement a product labelling scheme (Opportunity 9) and why?
 Definitely no
 
-Why is this necessary beyond the class marking? The class mark should tell you all you need to know.
+Why is this necessary beyond the class marking? The class mark should tell you all you need to know. Use existing EASA based numeric C0-C4 labels.
 
 
 13. Should CAA simplify exclusions from product requirements (Opportunity 10) and why? 
@@ -145,24 +143,28 @@ Remote ID and geo-awareness, to UAS below 250g with cameras  will lead to more u
 Definitely no
 
 
-Remote ID and geo-awareness, to UAS below 250g with cameras  will lead to more user circumventing Remote ID. This will reduce the peer pressure to comply with the current regulations from with the drone community. An unintended consequence will increase the non-compliance and security risk. 
+Remote ID for UAS below 250g with cameras  will lead to more user circumventing Remote ID. This will reduce the peer pressure to comply with the current regulations from with the drone community. An unintended consequence will increase the non-compliance and security risk. 
+
+Remote ID does not improve safety
 
  15. Should CAA to implement geo-awareness (Opportunity 12) and why? 
+
+Neither agree nor disagree
 
 Remote ID and geo-awareness, to UAS below 250g with cameras  will lead to more user circumventing Remote ID. This will reduce the peer pressure to comply with the current regulations from with the drone community. An unintended consequence will increase the non-compliance and security risk. 
 
 16 Should CAA introduce requirements for manufacturers to provide user guidance during product set-up or pre-flight, via the controller or
 other interface (Opportunity 13) and why?
 
- Yes, to an extent 
+Definitely yes
  
  A sensible checklist as per pilot of other aircraft. 
  
  17 Should CAA introduce user validation requirements on manufacturers (Opportunity 14) and why?
  
-Yes, to an extent 
+No, to an extent 
   
-It may leas to UK supplier being under-cut by the race to the bottom.
+It may led to UK supplier being under-cut by the race to the bottom.
 
 
 18. Should CAA simplify policy and guidance document structure (Opportunity 15) and why? 
@@ -172,6 +174,6 @@ It may leas to UK supplier being under-cut by the race to the bottom.
  
 19 What other opportunities to improve UAS regulation, beyond those described in this Call for Input, would you like to see progressed?
 
-
 To being more people within the regulatory framework I like to see a way to fly FPV, for a low mass drone, at a short distance without a spotter. 
 
+Bring in lower height restrictions to let smaller drones, low mass drones fly in more places.
