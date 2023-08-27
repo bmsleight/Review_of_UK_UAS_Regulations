@@ -10,7 +10,7 @@ Dear {MP NAME},
 
 My names is {YOUR NAME} and I am a constituent of {OUR CONSTITUENCY}. I am writing to you today because I am concerned about the  Civil Aviation Authority Call for Input: Review of UK UAS Regulations CAP 2569. As I am a daily UAS, otherwise known as a drone user - I am concerned the consultation will not take into account view of drone users. 
 
-I am asking you to raise with the Parliamentary Under Secretary of State (Aviation, Maritime and Security) key concerns. To work closer with the community of Drone user in the consultation in particular to provide drone uses with:-
+I am asking you to raise with the Parliamentary Under Secretary of State (Aviation, Maritime and Security) key concerns. To work closer with the community of Drone user in the consultation in particular to provide drones uses with:-
 
 1. Evidence of non-compliance of the current regulations 
 2. Risk based approach on safety based upon evidence and real data not opinions. 
