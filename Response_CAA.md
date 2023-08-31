@@ -72,7 +72,7 @@ Naming is superficial but they could be more meaningful.
 
 5. Should CAA simplify how operational requirements are categorised (Opportunity 2) and why? 
 
- Neither yes nor no 
+ Definitely No 
 
 The CAA has not given risk based approach on evidence therefore the approach to simplification is ill-defined. 
 
@@ -97,7 +97,7 @@ To increase levels of compliance options could be given or low-mass FPV without 
 
 8 Should CAA change transitional arrangements for users of UAS without class-marks (Opportunity 5) and why?
 
-Definitely yes
+Yes to an extent
 
 No evidence to suggest current drones are unsafe. Arrangements could be made to permit C-1 labelled drones to have the same freedoms enjoyed in Europe.
 
@@ -106,7 +106,6 @@ No evidence to suggest current drones are unsafe. Arrangements could be made to 
 Definitely disagree
  
 Disagree that regulatory requirements are not as effective as they could be in mitigating safety and security risks. No evidence of any safety issues. 
-Agree that Users are not communicated adequate information at point-of-purchase
 
 More restrictive regulation will drive users to circumvent technical blocks. Similar to electric bikes.  This will also driver users to not use UK suppliers. 
 
@@ -124,7 +123,7 @@ Make more use of geo-restrictions as a mitigation measure.
  
 Neither yes nor no 
  
-The danger is that this makes UK suppliers uncompetitive.  
+The danger is that this makes UK suppliers uncompetitive. 
  
 12 Should CAA implement a product labelling scheme (Opportunity 9) and why?
 Definitely no
@@ -143,9 +142,15 @@ Remote ID and geo-awareness, to UAS below 250g with cameras  will lead to more u
 Definitely no
 
 
-Remote ID for UAS below 250g with cameras  will lead to more user circumventing Remote ID. This will reduce the peer pressure to comply with the current regulations from with the drone community. An unintended consequence will increase the non-compliance and security risk. 
+Remote ID for UAS below 250g with cameras will lead to more user circumventing Remote ID. This will reduce the peer pressure to comply with the current regulations from with the drone community. An unintended consequence will increase the non-compliance and security risk. 
 
-Remote ID does not improve safety
+Remote ID does not improve safety. 
+
+It is beyond the scope of the CAA. Over-reach to harvest data. 
+
+When rules lose the support of the masses they get ignored by the masses. 
+
+Criminals will not register. 
 
  15. Should CAA to implement geo-awareness (Opportunity 12) and why? 
 
